@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'download.png',
   paragraphOne: 'I am 24 Front End developer interested in code and design ,  graduate from RBK(Boot camp) with a high level of commitment , organizing and communication skills  ',
   paragraphTwo: 'With experiens in Html , Css , JavaScript and React ',
   paragraphThree: 'Always and always hard work with creativity is the secret of success',
