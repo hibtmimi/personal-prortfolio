@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am 24 Front End developer interested in code and design ,  graduate from RBK(Boot camp) with a high level of commitment , organizing and communication skills  ',
   paragraphTwo: 'With experiens in Html , Css , JavaScript and React ',
   paragraphThree: 'Always and always hard work with creativity is the secret of success',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/drive/folders/1UI_lO6Ln_WKMrDKgJya9W4DD9TC657e0?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

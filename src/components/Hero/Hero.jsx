@@ -38,8 +38,21 @@ const Header = () => {
               <Link to="about" smooth duration={1000}>
                 {cta || 'Know more'}
               </Link>
+             
             </span>
+            
+            <p> 
+              <a herf ='https://github.com/hibtmimi'>
+                
+                </a>
+                 
+            
+              <a href="https://github.com/hibtmimi"> <i class="fab fa-github fa-sm" style = {{paddingLeft : '18px' , paddingTop : '12px' , color : 'black'}} ></i></a>
+              <a href="https://www.linkedin.com/in/hiba-tamimi/"> <i class="fab fa-linkedin fa-sm" style = {{paddingLeft : '18px' , paddingTop : '12px' , color : 'black'}} ></i></a>
+             
+                  </p> 
           </p>
+         
         </Fade>
       </Container>
     </section>

@@ -5,6 +5,7 @@ import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
 import PortfolioContext from '../../context/context';
 
+
 const About = () => {
   const { about } = useContext(PortfolioContext);
   const { img, paragraphOne, paragraphTwo, paragraphThree, resume } = about;
@@ -54,11 +55,13 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href={resume}
+                      href='https://drive.google.com/drive/folders/1UI_lO6Ln_WKMrDKgJya9W4DD9TC657e0?usp=sharing'
                     >
                       Resume
                     </a>
+
                   </span>
+
                 )}
               </div>
             </Fade>
