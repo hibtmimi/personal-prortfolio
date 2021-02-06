@@ -56,6 +56,15 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/hibtmimi/amazon-clone.git', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'Screenshot.png',
+    title: 'Twitter clone',
+    info: 'Twitter clone app ',
+    info2: ' Build with React , flix and mongodb',
+    url: '',
+    repo: 'https://github.com/Twittrer/TwitterRepo', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
