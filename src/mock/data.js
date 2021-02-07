@@ -53,7 +53,7 @@ export const projectsData = [
     title: 'Amazon clone',
     info: 'amazon clone website ',
     info2: ' Build with React , express and firebase',
-    url: '',
+    url: 'https://clone-5b89d.web.app/',
     repo: 'https://github.com/hibtmimi/amazon-clone.git', // if no repo, the button will not show up
   },
   {
@@ -62,7 +62,7 @@ export const projectsData = [
     title: 'Twitter clone',
     info: 'Twitter clone app ',
     info2: ' Build with React , flix and mongodb',
-    url: '',
+    url: 'https://twittrer2.web.app/',
     repo: 'https://github.com/Twittrer/TwitterRepo', // if no repo, the button will not show up
   },
 ];
