@@ -38,6 +38,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'Screenshot (12).png',
+    title: 'Amazon clone',
+    info: 'amazon clone website ',
+    info2: ' Build with React , express and firebase',
+    url: 'https://clone-5b89d.web.app/',
+    repo: 'https://github.com/hibtmimi/amazon-clone.git', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'profile.PNG',
     title: 'LiLY',
     info:
@@ -55,15 +64,6 @@ export const projectsData = [
     info2: ' Build with MERN technology (Mongodb , Express , React and Node.js',
     url: '',
     repo: 'https://github.com/greenfield-sharkona/sharkona_v2', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'Screenshot (12).png',
-    title: 'Amazon clone',
-    info: 'amazon clone website ',
-    info2: ' Build with React , express and firebase',
-    url: 'https://clone-5b89d.web.app/',
-    repo: 'https://github.com/hibtmimi/amazon-clone.git', // if no repo, the button will not show up
   },
 ];
 
